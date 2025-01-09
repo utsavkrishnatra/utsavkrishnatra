@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **utsavkk90@gmail.com**
 
-- 📄 Know about my experiences [utsavkrishnatra.github.io/Portfolio/](utsavkrishnatra.github.io/Portfolio/)
-
 - ⚡ Fun fact **I think I will own a billion dollar company**
 
 <h3 align="left">Connect with me:</h3>
