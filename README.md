@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs, Typescript, and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [utsavkrishnatra.github.io/Portfolio/](https://utsavkrishnatra.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [utsavkrishnatra.github.io/Portfolio/](https://utsavkrishnatra.github.io/Portfolio)
 
 - 💬 Ask me about **React, Javascript, Java, Azure, Design Patterns, Data Structures and Algorithms**
 
